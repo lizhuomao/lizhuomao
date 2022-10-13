@@ -1,6 +1,6 @@
 - 👋 Hi, I’m lizhuomao
 - 👀 I’m interested in computer vision , robot, digital image process
-- 🌱 I’m currently learning shanxi university
+- 🌱 I’m currently learning Shanxi university
 - 📫 How to reach me 1774709058@qq.com
 
 <!---
