@@ -1,6 +1,6 @@
 - 👋 Hi, I’m lizhuomao
 - 👀 I’m interested in computer vision , robot, digital image process
-- 🌱 I’m currently learning Shanxi university
+- 🌱 I’m currently researching grasp detection at Shanxi University
 - 📫 How to reach me 1774709058@qq.com
 
 <!---
